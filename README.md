@@ -1,3 +1,3 @@
 # ichiro-web
 
-Dies ist der code zur webseite von dem bot ichiro
+Dies ist der Code zur Webseite von dem Bot Ichiro
